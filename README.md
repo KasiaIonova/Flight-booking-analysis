@@ -1,8 +1,5 @@
 # The-final-project-for-the-course-SQL-and-data-acquisition
 
-Проектная работа по модулю
-“SQL и получение данных”
-
 Project work on the module "SQL and Data Retrieval"
 
 
