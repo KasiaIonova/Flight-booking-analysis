@@ -1,4 +1,4 @@
-# The-final-project-for-the-course-SQL-and-data-acquisition
+# Flight-booking-analysis
 
 Project work on the module "SQL and Data Retrieval"
 
